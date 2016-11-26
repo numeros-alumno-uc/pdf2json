@@ -27,6 +27,7 @@
   },
   "main": "./pdfparser.js",
   "scripts": {
+    "build": "node build.js",
     "test": "cd ./test && sh p2j.forms.sh",
     "test-misc": "node pdf2json.js -f ./test/pdf/misc/ -o ./test/target/misc/ -c -m"
   },
