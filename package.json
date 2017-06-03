@@ -45,12 +45,6 @@
   },
   "devDependencies": {
   },
-  "bundledDependencies": [
-    "xmldom",
-    "lodash",
-    "optimist",
-    "async"
-  ],
   "maintainers": [
     {
       "name": "Modesty Zhang",
